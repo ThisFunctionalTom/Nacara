@@ -5,7 +5,7 @@ layout: standard
 
 A page in Nacara is a **Markdown** file composed of two things:
 
-- **Front Matter**: configure how the page should rendered, for example it is here that you specify which layout to applied
+- **Front Matter**: configure how the page should be rendered, for example it is here that you specify which layout to applied
 - **Content**: The markdown content to include in the page
 
 ## Create your first page
